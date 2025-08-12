@@ -109,3 +109,4 @@ git revert HEAD
 ```bash
 git reset --hard HEAD~2
 ```
+➡️ [Следующий раздел: История и откаты в Git](06-history-revert.md)

@@ -29,9 +29,9 @@
 ---
 
 ## Связаться со мной
-- Telegram: [@ТвойНик](https://t.me/ТвойНик)
+- Telegram: [@IT_globe](https://t.me/IT_globe)
 - YouTube: [Твой канал](https://youtube.com)
-- Email: yourmail@example.com
+- Email: radleo.official@gmail.com
 
 ---
 

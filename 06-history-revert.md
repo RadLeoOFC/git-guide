@@ -109,4 +109,4 @@ git revert HEAD
 ```bash
 git reset --hard HEAD~2
 ```
-➡️ [Следующий раздел: История и откаты в Git](07-team-work.md)
+➡️ [Следующий раздел: Работа в команде](07-team-work.md)

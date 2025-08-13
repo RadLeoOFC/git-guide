@@ -66,3 +66,5 @@ jobs:
       - run: npm install
       - run: npm test
 ```
+
+➡️ [Следующий раздел: Частые ошибки и их исправление](10-common-errors.md)

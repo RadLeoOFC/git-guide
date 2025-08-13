@@ -160,3 +160,5 @@ cd ../..
 git add libs/some-module
 git commit -m "Bump some-module to v2.3.0"
 ```
+
+➡️ [Следующий раздел: Git Hooks и автоматизация](09-hooks.md)
